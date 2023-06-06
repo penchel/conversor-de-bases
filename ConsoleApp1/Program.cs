@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//teste alteração
 namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            int teste123 = 0;
             int op;
             string str;
             Menu();
